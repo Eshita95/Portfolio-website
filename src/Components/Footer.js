@@ -42,23 +42,6 @@ const Footer = () => {
                             </a>
                         </div>
                     </div>
-                    <div className="flex justify-center text-center mt-3 mb-2 gap-8">
-
-                        <div className="col">
-                            <a
-                                target="_blank"
-                                href="https://www.linkedin.com/in/zobaida-shekh-eshita/"
-                            >
-                                
-                            </a>
-                        </div>
-                        
-                        <div className="col">
-                            <a target="_blank" href="https://github.com/Eshita95">
-                                
-                            </a>
-                        </div>
-                    </div>
                     <div className="text-center pb-3">
                         <p className="">
                            <small> All rights reserved by Zobaida Shekh Eshita &copy; </small>
