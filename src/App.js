@@ -1,8 +1,10 @@
 import './App.css';
 import About from './Components/About';
 import Banner from './Components/Banner';
+import Contact from './Components/Contact';
 import Navbar from './Components/Navbar';
 import Skills from './Components/Skills';
+
 
 function App() {
   return (
@@ -11,6 +13,7 @@ function App() {
       <Banner></Banner>
       <About></About>
       <Skills></Skills>
+      <Contact></Contact>
     </div>
   );
 }
